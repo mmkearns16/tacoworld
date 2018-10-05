@@ -1,1 +1,1 @@
-print("I, Max Kearns want tacos!")
+print("I, Max Kearns want rice!")
